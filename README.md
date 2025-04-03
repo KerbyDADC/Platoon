@@ -1,7 +1,7 @@
 # Platoon
 
 Platoon
-Team Name - 9:15
+Team Name - Team.
 Members - Kerby Dela Cruz (just me)
 
 Platoon is a game where a dealer and player are given 10 cards. They then must make
