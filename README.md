@@ -19,16 +19,10 @@ To my knowledge this game was in an optional side area as a mini game in ni no k
 a game from over 10 years ago. There isn't much coverage on this mini game and I feel
 it's a fun card game that people should play more often. Along with my added rules.
 
-This was my initial UML diagram
-![image](https://github.com/user-attachments/assets/2017a64d-e215-48a2-8c7c-91f77207263a)
-The plan is to start off with the basic game mechanics, making sure that the hands
-interact with eachother correctly, then the visuals, cards, background, score UI.
-Finally, add some interactive feedback (i.e. cards popping up when selected) to
-make the game less stiff. I will be doing this all on my own.
 
 
 This is my final UML diagram
-<img width="707" alt="Image" src="https://github.com/user-attachments/assets/767ec3ba-8f98-4e0e-ad3c-aa4d41b54b97" />
+<img width="707" alt="Image" src="https://github.com/user-attachments/assets/6acaa257-2485-4dff-b798-6aff72fa6e2e" />
 
 This game requires Java and JavaFX to run, make sure you have both downloaded.
 Clone or download the repository on this page
