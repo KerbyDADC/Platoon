@@ -29,3 +29,20 @@ make the game less stiff. I will be doing this all on my own.
 This is my final UML diagram
 <img width="707" alt="Image" src="https://github.com/user-attachments/assets/767ec3ba-8f98-4e0e-ad3c-aa4d41b54b97" />
 
+This game requires Java and JavaFX to run, make sure you have both downloaded.
+Clone or download the repository on this page
+open the Platoon folder using VSCode and type this into the terminal to compile the game
+javac --module-path "/path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics Game/Main.java
+
+Run the game using
+
+java --module-path "/path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics Game.Main
+
+(or just hit launch in vscode)
+
+make sure to replace "/path/to/javafx-sdk/lib" with your own path to the JavaFX SDK library
+
+
+
+
+
