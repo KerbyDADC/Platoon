@@ -27,4 +27,5 @@ make the game less stiff. I will be doing this all on my own.
 
 
 This is my final UML diagram
+<img width="707" alt="Image" src="https://github.com/user-attachments/assets/767ec3ba-8f98-4e0e-ad3c-aa4d41b54b97" />
 
