@@ -27,11 +27,13 @@ This is my final UML diagram
 This game requires Java and JavaFX to run, make sure you have both downloaded.
 Clone or download the repository on this page
 open the Platoon folder using VSCode and type this into the terminal to compile the game
-javac --module-path "/path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics Game/Main.java
+cd /Your/Path/To/Platoon (the folder)/
+
+javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -d out src/Game/*.java
 
 Run the game using
 
-java --module-path "/path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics Game.Main
+java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -cp out Game.Main
 
 (or just hit launch in vscode)
 
